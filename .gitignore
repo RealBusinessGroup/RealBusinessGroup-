@@ -1,0 +1,22 @@
+# Flutter/Dart
+.dart_tool/
+.packages
+.pub-cache/
+build/
+.idea/
+.vscode/
+
+# iOS / Android
+ios/Pods/
+android/.gradle/
+android/app/build/
+
+# Secrets
+.env
+*.keystore
+
+# Others
+*.log
+*.tmp
+*.swp
+.DS_Store
